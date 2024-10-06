@@ -1,3 +1,5 @@
 # github-demo
 This is my first Git Repository
-Authior - Aisha Siddique
+<br>
+Author - Aisha Siddique
+We are learning git commands
